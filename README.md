@@ -7,11 +7,11 @@
 
 * mention your input file name in getInput() method
 
-    // read the input from input.txt
-    function getInput() {
-        var data = fs.readFileSync('./input/thoughtWorks.txt', 'utf8');
-        return data.toString();
-    }
+        // read the input from input.txt
+        function getInput() {
+            var data = fs.readFileSync('./input/thoughtWorks.txt', 'utf8');
+            return data.toString();
+        }
 
 * Run your code using below command:
     
