@@ -9,7 +9,7 @@ function main(input) {
    
     let newInput = input.replace(/\r/,"").split("\n");
     
-   * write your input logic as per the problem statement.
+    // write your input logic as per the problem statement.
 
     //first line of input contains number of testcases
     let T = Number(newInput[0]);
