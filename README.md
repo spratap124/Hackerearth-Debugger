@@ -1,6 +1,24 @@
 # Hackerearth-Debugger
 
+* This application helps you to solve the HackerEarth coding problems basedo on NodeJS.
+    you can easily debug the application by running the program in your local machine.
 
+* Put the input file(*.txt) in input folder and keep the input test cases in that file.
+
+* mention your input file name in getInput() method
+
+    // read the input from input.txt
+    function getInput() {
+        var data = fs.readFileSync('./input/thoughtWorks.txt', 'utf8');
+        return data.toString();
+    }
+
+* Run your code using below command:
+    
+    Ex:
+    node thougthWorks.js
+
+* See the output in console. 
 
 
 ##  Write your code here
