@@ -1,6 +1,6 @@
 # Hackerearth-Debugger
 
-* This application helps you to solve the HackerEarth coding problems basedo on NodeJS.
+* This application helps you to solve the HackerEarth coding problems based on NodeJS.
     you can easily debug the application by running the program in your local machine.
 
 * Put the input file(*.txt) in input folder and keep the input test cases in that file.
